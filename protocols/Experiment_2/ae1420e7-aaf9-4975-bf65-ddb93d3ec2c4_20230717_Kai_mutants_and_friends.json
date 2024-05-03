@@ -1,0 +1,1224 @@
+{
+  "Id": "ae1420e7-aaf9-4975-bf65-ddb93d3ec2c4",
+  "CreatedAt": "2023-06-20T11:37:44.1852377+02:00",
+  "LastModifiedAt": "2023-07-17T16:52:08.089977+02:00",
+  "Name": "20230717_Kai_mutants_and_friends",
+  "UserName": null,
+  "Comment": null,
+  "LotId": null,
+  "Microplate": {
+    "Id": 9,
+    "Name": "MTP_48-FlowerPlate",
+    "ChipType": "2R",
+    "CultivationLabels": [
+      "A01",
+      "A02",
+      "A03",
+      "A04",
+      "A05",
+      "A06",
+      "A07",
+      "A08",
+      "B01",
+      "B02",
+      "B03",
+      "B04",
+      "B05",
+      "B06",
+      "B07",
+      "B08",
+      "C01",
+      "C02",
+      "C03",
+      "C04",
+      "C05",
+      "C06",
+      "C07",
+      "C08",
+      "D01",
+      "D02",
+      "D03",
+      "D04",
+      "D05",
+      "D06",
+      "D07",
+      "D08",
+      "E01",
+      "E02",
+      "E03",
+      "E04",
+      "E05",
+      "E06",
+      "E07",
+      "E08",
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05",
+      "F06",
+      "F07",
+      "F08"
+    ],
+    "ReservoirLabels": [],
+    "MaxVolumesInMicroLiter": {
+      "A01": 3200.0,
+      "A02": 3200.0,
+      "A03": 3200.0,
+      "A04": 3200.0,
+      "A05": 3200.0,
+      "A06": 3200.0,
+      "A07": 3200.0,
+      "A08": 3200.0,
+      "B01": 3200.0,
+      "B02": 3200.0,
+      "B03": 3200.0,
+      "B04": 3200.0,
+      "B05": 3200.0,
+      "B06": 3200.0,
+      "B07": 3200.0,
+      "B08": 3200.0,
+      "C01": 3200.0,
+      "C02": 3200.0,
+      "C03": 3200.0,
+      "C04": 3200.0,
+      "C05": 3200.0,
+      "C06": 3200.0,
+      "C07": 3200.0,
+      "C08": 3200.0,
+      "D01": 3200.0,
+      "D02": 3200.0,
+      "D03": 3200.0,
+      "D04": 3200.0,
+      "D05": 3200.0,
+      "D06": 3200.0,
+      "D07": 3200.0,
+      "D08": 3200.0,
+      "E01": 3200.0,
+      "E02": 3200.0,
+      "E03": 3200.0,
+      "E04": 3200.0,
+      "E05": 3200.0,
+      "E06": 3200.0,
+      "E07": 3200.0,
+      "E08": 3200.0,
+      "F01": 3200.0,
+      "F02": 3200.0,
+      "F03": 3200.0,
+      "F04": 3200.0,
+      "F05": 3200.0,
+      "F06": 3200.0,
+      "F07": 3200.0,
+      "F08": 3200.0
+    },
+    "CultivationOptodePositionMap": {
+      "A01": {
+        "Intensity": {
+          "X": 16.0,
+          "Y": 9.5
+        },
+        "pH": {
+          "X": 18.5,
+          "Y": 7.0
+        },
+        "DO": {
+          "X": 18.5,
+          "Y": 12.0
+        }
+      },
+      "A02": {
+        "Intensity": {
+          "X": 29.0,
+          "Y": 9.5
+        },
+        "pH": {
+          "X": 31.5,
+          "Y": 7.0
+        },
+        "DO": {
+          "X": 31.5,
+          "Y": 12.0
+        }
+      },
+      "A03": {
+        "Intensity": {
+          "X": 42.0,
+          "Y": 9.5
+        },
+        "pH": {
+          "X": 44.5,
+          "Y": 7.0
+        },
+        "DO": {
+          "X": 44.5,
+          "Y": 12.0
+        }
+      },
+      "A04": {
+        "Intensity": {
+          "X": 55.0,
+          "Y": 9.5
+        },
+        "pH": {
+          "X": 57.5,
+          "Y": 7.0
+        },
+        "DO": {
+          "X": 57.5,
+          "Y": 12.0
+        }
+      },
+      "A05": {
+        "Intensity": {
+          "X": 68.0,
+          "Y": 9.5
+        },
+        "pH": {
+          "X": 70.5,
+          "Y": 7.0
+        },
+        "DO": {
+          "X": 70.5,
+          "Y": 12.0
+        }
+      },
+      "A06": {
+        "Intensity": {
+          "X": 81.0,
+          "Y": 9.5
+        },
+        "pH": {
+          "X": 83.5,
+          "Y": 7.0
+        },
+        "DO": {
+          "X": 83.5,
+          "Y": 12.0
+        }
+      },
+      "A07": {
+        "Intensity": {
+          "X": 94.0,
+          "Y": 9.5
+        },
+        "pH": {
+          "X": 96.5,
+          "Y": 7.0
+        },
+        "DO": {
+          "X": 96.5,
+          "Y": 12.0
+        }
+      },
+      "A08": {
+        "Intensity": {
+          "X": 107.0,
+          "Y": 9.5
+        },
+        "pH": {
+          "X": 109.5,
+          "Y": 7.0
+        },
+        "DO": {
+          "X": 109.5,
+          "Y": 12.0
+        }
+      },
+      "B01": {
+        "Intensity": {
+          "X": 16.0,
+          "Y": 22.5
+        },
+        "pH": {
+          "X": 18.5,
+          "Y": 20.0
+        },
+        "DO": {
+          "X": 18.5,
+          "Y": 25.0
+        }
+      },
+      "B02": {
+        "Intensity": {
+          "X": 29.0,
+          "Y": 22.5
+        },
+        "pH": {
+          "X": 31.5,
+          "Y": 20.0
+        },
+        "DO": {
+          "X": 31.5,
+          "Y": 25.0
+        }
+      },
+      "B03": {
+        "Intensity": {
+          "X": 42.0,
+          "Y": 22.5
+        },
+        "pH": {
+          "X": 44.5,
+          "Y": 20.0
+        },
+        "DO": {
+          "X": 44.5,
+          "Y": 25.0
+        }
+      },
+      "B04": {
+        "Intensity": {
+          "X": 55.0,
+          "Y": 22.5
+        },
+        "pH": {
+          "X": 57.5,
+          "Y": 20.0
+        },
+        "DO": {
+          "X": 57.5,
+          "Y": 25.0
+        }
+      },
+      "B05": {
+        "Intensity": {
+          "X": 68.0,
+          "Y": 22.5
+        },
+        "pH": {
+          "X": 70.5,
+          "Y": 20.0
+        },
+        "DO": {
+          "X": 70.5,
+          "Y": 25.0
+        }
+      },
+      "B06": {
+        "Intensity": {
+          "X": 81.0,
+          "Y": 22.5
+        },
+        "pH": {
+          "X": 83.5,
+          "Y": 20.0
+        },
+        "DO": {
+          "X": 83.5,
+          "Y": 25.0
+        }
+      },
+      "B07": {
+        "Intensity": {
+          "X": 94.0,
+          "Y": 22.5
+        },
+        "pH": {
+          "X": 96.5,
+          "Y": 20.0
+        },
+        "DO": {
+          "X": 96.5,
+          "Y": 25.0
+        }
+      },
+      "B08": {
+        "Intensity": {
+          "X": 107.0,
+          "Y": 22.5
+        },
+        "pH": {
+          "X": 109.5,
+          "Y": 20.0
+        },
+        "DO": {
+          "X": 109.5,
+          "Y": 25.0
+        }
+      },
+      "C01": {
+        "Intensity": {
+          "X": 16.0,
+          "Y": 35.5
+        },
+        "pH": {
+          "X": 18.5,
+          "Y": 33.0
+        },
+        "DO": {
+          "X": 18.5,
+          "Y": 38.0
+        }
+      },
+      "C02": {
+        "Intensity": {
+          "X": 29.0,
+          "Y": 35.5
+        },
+        "pH": {
+          "X": 31.5,
+          "Y": 33.0
+        },
+        "DO": {
+          "X": 31.5,
+          "Y": 38.0
+        }
+      },
+      "C03": {
+        "Intensity": {
+          "X": 42.0,
+          "Y": 35.5
+        },
+        "pH": {
+          "X": 44.5,
+          "Y": 33.0
+        },
+        "DO": {
+          "X": 44.5,
+          "Y": 38.0
+        }
+      },
+      "C04": {
+        "Intensity": {
+          "X": 55.0,
+          "Y": 35.5
+        },
+        "pH": {
+          "X": 57.5,
+          "Y": 33.0
+        },
+        "DO": {
+          "X": 57.5,
+          "Y": 38.0
+        }
+      },
+      "C05": {
+        "Intensity": {
+          "X": 68.0,
+          "Y": 35.5
+        },
+        "pH": {
+          "X": 70.5,
+          "Y": 33.0
+        },
+        "DO": {
+          "X": 70.5,
+          "Y": 38.0
+        }
+      },
+      "C06": {
+        "Intensity": {
+          "X": 81.0,
+          "Y": 35.5
+        },
+        "pH": {
+          "X": 83.5,
+          "Y": 33.0
+        },
+        "DO": {
+          "X": 83.5,
+          "Y": 38.0
+        }
+      },
+      "C07": {
+        "Intensity": {
+          "X": 94.0,
+          "Y": 35.5
+        },
+        "pH": {
+          "X": 96.5,
+          "Y": 33.0
+        },
+        "DO": {
+          "X": 96.5,
+          "Y": 38.0
+        }
+      },
+      "C08": {
+        "Intensity": {
+          "X": 107.0,
+          "Y": 35.5
+        },
+        "pH": {
+          "X": 109.5,
+          "Y": 33.0
+        },
+        "DO": {
+          "X": 109.5,
+          "Y": 38.0
+        }
+      },
+      "D01": {
+        "Intensity": {
+          "X": 16.0,
+          "Y": 48.5
+        },
+        "pH": {
+          "X": 18.5,
+          "Y": 46.0
+        },
+        "DO": {
+          "X": 18.5,
+          "Y": 51.0
+        }
+      },
+      "D02": {
+        "Intensity": {
+          "X": 29.0,
+          "Y": 48.5
+        },
+        "pH": {
+          "X": 31.5,
+          "Y": 46.0
+        },
+        "DO": {
+          "X": 31.5,
+          "Y": 51.0
+        }
+      },
+      "D03": {
+        "Intensity": {
+          "X": 42.0,
+          "Y": 48.5
+        },
+        "pH": {
+          "X": 44.5,
+          "Y": 46.0
+        },
+        "DO": {
+          "X": 44.5,
+          "Y": 51.0
+        }
+      },
+      "D04": {
+        "Intensity": {
+          "X": 55.0,
+          "Y": 48.5
+        },
+        "pH": {
+          "X": 57.5,
+          "Y": 46.0
+        },
+        "DO": {
+          "X": 57.5,
+          "Y": 51.0
+        }
+      },
+      "D05": {
+        "Intensity": {
+          "X": 68.0,
+          "Y": 48.5
+        },
+        "pH": {
+          "X": 70.5,
+          "Y": 46.0
+        },
+        "DO": {
+          "X": 70.5,
+          "Y": 51.0
+        }
+      },
+      "D06": {
+        "Intensity": {
+          "X": 81.0,
+          "Y": 48.5
+        },
+        "pH": {
+          "X": 83.5,
+          "Y": 46.0
+        },
+        "DO": {
+          "X": 83.5,
+          "Y": 51.0
+        }
+      },
+      "D07": {
+        "Intensity": {
+          "X": 94.0,
+          "Y": 48.5
+        },
+        "pH": {
+          "X": 96.5,
+          "Y": 46.0
+        },
+        "DO": {
+          "X": 96.5,
+          "Y": 51.0
+        }
+      },
+      "D08": {
+        "Intensity": {
+          "X": 107.0,
+          "Y": 48.5
+        },
+        "pH": {
+          "X": 109.5,
+          "Y": 46.0
+        },
+        "DO": {
+          "X": 109.5,
+          "Y": 51.0
+        }
+      },
+      "E01": {
+        "Intensity": {
+          "X": 16.0,
+          "Y": 61.5
+        },
+        "pH": {
+          "X": 18.5,
+          "Y": 59.0
+        },
+        "DO": {
+          "X": 18.5,
+          "Y": 64.0
+        }
+      },
+      "E02": {
+        "Intensity": {
+          "X": 29.0,
+          "Y": 61.5
+        },
+        "pH": {
+          "X": 31.5,
+          "Y": 59.0
+        },
+        "DO": {
+          "X": 31.5,
+          "Y": 64.0
+        }
+      },
+      "E03": {
+        "Intensity": {
+          "X": 42.0,
+          "Y": 61.5
+        },
+        "pH": {
+          "X": 44.5,
+          "Y": 59.0
+        },
+        "DO": {
+          "X": 44.5,
+          "Y": 64.0
+        }
+      },
+      "E04": {
+        "Intensity": {
+          "X": 55.0,
+          "Y": 61.5
+        },
+        "pH": {
+          "X": 57.5,
+          "Y": 59.0
+        },
+        "DO": {
+          "X": 57.5,
+          "Y": 64.0
+        }
+      },
+      "E05": {
+        "Intensity": {
+          "X": 68.0,
+          "Y": 61.5
+        },
+        "pH": {
+          "X": 70.5,
+          "Y": 59.0
+        },
+        "DO": {
+          "X": 70.5,
+          "Y": 64.0
+        }
+      },
+      "E06": {
+        "Intensity": {
+          "X": 81.0,
+          "Y": 61.5
+        },
+        "pH": {
+          "X": 83.5,
+          "Y": 59.0
+        },
+        "DO": {
+          "X": 83.5,
+          "Y": 64.0
+        }
+      },
+      "E07": {
+        "Intensity": {
+          "X": 94.0,
+          "Y": 61.5
+        },
+        "pH": {
+          "X": 96.5,
+          "Y": 59.0
+        },
+        "DO": {
+          "X": 96.5,
+          "Y": 64.0
+        }
+      },
+      "E08": {
+        "Intensity": {
+          "X": 107.0,
+          "Y": 61.5
+        },
+        "pH": {
+          "X": 109.5,
+          "Y": 59.0
+        },
+        "DO": {
+          "X": 109.5,
+          "Y": 64.0
+        }
+      },
+      "F01": {
+        "Intensity": {
+          "X": 16.0,
+          "Y": 74.5
+        },
+        "pH": {
+          "X": 18.5,
+          "Y": 72.0
+        },
+        "DO": {
+          "X": 18.5,
+          "Y": 77.0
+        }
+      },
+      "F02": {
+        "Intensity": {
+          "X": 29.0,
+          "Y": 74.5
+        },
+        "pH": {
+          "X": 31.5,
+          "Y": 72.0
+        },
+        "DO": {
+          "X": 31.5,
+          "Y": 77.0
+        }
+      },
+      "F03": {
+        "Intensity": {
+          "X": 42.0,
+          "Y": 74.5
+        },
+        "pH": {
+          "X": 44.5,
+          "Y": 72.0
+        },
+        "DO": {
+          "X": 44.5,
+          "Y": 77.0
+        }
+      },
+      "F04": {
+        "Intensity": {
+          "X": 55.0,
+          "Y": 74.5
+        },
+        "pH": {
+          "X": 57.5,
+          "Y": 72.0
+        },
+        "DO": {
+          "X": 57.5,
+          "Y": 77.0
+        }
+      },
+      "F05": {
+        "Intensity": {
+          "X": 68.0,
+          "Y": 74.5
+        },
+        "pH": {
+          "X": 70.5,
+          "Y": 72.0
+        },
+        "DO": {
+          "X": 70.5,
+          "Y": 77.0
+        }
+      },
+      "F06": {
+        "Intensity": {
+          "X": 81.0,
+          "Y": 74.5
+        },
+        "pH": {
+          "X": 83.5,
+          "Y": 72.0
+        },
+        "DO": {
+          "X": 83.5,
+          "Y": 77.0
+        }
+      },
+      "F07": {
+        "Intensity": {
+          "X": 94.0,
+          "Y": 74.5
+        },
+        "pH": {
+          "X": 96.5,
+          "Y": 72.0
+        },
+        "DO": {
+          "X": 96.5,
+          "Y": 77.0
+        }
+      },
+      "F08": {
+        "Intensity": {
+          "X": 107.0,
+          "Y": 74.5
+        },
+        "pH": {
+          "X": 109.5,
+          "Y": 72.0
+        },
+        "DO": {
+          "X": 109.5,
+          "Y": 77.0
+        }
+      }
+    }
+  },
+  "Channels": [
+    {
+      "Id": 1,
+      "Name": "BM_730_6",
+      "Filter": {
+        "Id": 552,
+        "Name": "Biomass 730",
+        "FilterType": "Intensity",
+        "Gain": 2
+      },
+      "Gain1": 6,
+      "Gain2": 1,
+      "Calibration": null
+    },
+    {
+      "Id": 2,
+      "Name": "eYFP_4",
+      "Filter": {
+        "Id": 515,
+        "Name": "eYFP - Citrine",
+        "FilterType": "Intensity",
+        "Gain": 2
+      },
+      "Gain1": 4,
+      "Gain2": 1,
+      "Calibration": null
+    }
+  ],
+  "Layout": {
+    "ReservoirLabelDescriptionsMap": {},
+    "CultivationLabelDescriptionsMap": {
+      "A01": "6803_WT_Uppsala_rep1",
+      "A02": "6803_deltaKaiA3_rep3",
+      "A03": "6803_deltaKaiC3_rep1",
+      "A04": "6803_deltaKaiA3B3_rep3",
+      "A05": "6803_deltaKaiB3C3_rep1",
+      "A06": "6803_deltaKaiA3B3C3_rep3",
+      "A07": "6803_deltaglgC_rep1",
+      "A08": "7942_Ducat_WT_rep1",
+      "B01": "6803_WT_Uppsala_rep2",
+      "B02": "6803_deltaKaiA3_rep4",
+      "B03": "6803_deltaKaiC3_rep2",
+      "B04": "6803_deltaKaiA3B3_rep4",
+      "B05": "6803_deltaKaiB3C3_rep2",
+      "B06": "6803_deltaKaiA3B3C3_rep4",
+      "B07": "6803_deltaglgC_rep2",
+      "B08": "7942_Ducat_WT_rep2",
+      "C01": "6803_WT_Uppsala_rep3",
+      "C02": "6803_deltaKaiB3_rep1",
+      "C03": "6803_deltaKaiC3_rep3",
+      "C04": "6803_deltaKaiA3C3_rep1",
+      "C05": "6803_deltaKaiB3C3_rep3",
+      "C06": "6803_deltaKaiA1B1C1_rep1",
+      "C07": "6803_deltaglgC_rep3",
+      "C08": "6803_mVenus_rep1",
+      "D01": "6803_WT_Uppsala_rep4",
+      "D02": "6803_deltaKaiB3_rep2",
+      "D03": "6803_deltaKaiC3_rep4",
+      "D04": "6803_deltaKaiA3C3_rep2",
+      "D05": "6803_deltaKaiB3C3_rep4",
+      "D06": "6803_deltaKaiA1B1C1_rep2",
+      "D07": "6803_deltaglgC_rep4",
+      "D08": "6803_mVenus_rep2",
+      "E01": "6803_deltaKaiA3_rep1",
+      "E02": "6803_deltaKaiB3_rep3",
+      "E03": "6803_deltaKaiA3B3_rep1",
+      "E04": "6803_deltaKaiA3C3_rep3",
+      "E05": "6803_deltaKaiA3B3C3_rep1",
+      "E06": "6803_deltaKaiA1B1C1_rep3",
+      "E07": "7942_Axmann_WT_rep1",
+      "E08": "6803_Wilde_WT_rep1",
+      "F01": "6803_deltaKaiA3_rep2",
+      "F02": "6803_deltaKaiB3_rep4",
+      "F03": "6803_deltaKaiA3B3_rep2",
+      "F04": "6803_deltaKaiA3C3_rep4",
+      "F05": "6803_deltaKaiA3B3C3_rep2",
+      "F06": "6803_deltaKaiA1B1C1_rep4",
+      "F07": "7942_Axmann_WT_rep2",
+      "F08": "6803_Wilde_WT_rep2"
+    },
+    "MeasuredCultivationLabels": [
+      "A01",
+      "A02",
+      "A03",
+      "A04",
+      "A05",
+      "A06",
+      "A07",
+      "A08",
+      "B01",
+      "B02",
+      "B03",
+      "B04",
+      "B05",
+      "B06",
+      "B07",
+      "B08",
+      "C01",
+      "C02",
+      "C03",
+      "C04",
+      "C05",
+      "C06",
+      "C07",
+      "C08",
+      "D01",
+      "D02",
+      "D03",
+      "D04",
+      "D05",
+      "D06",
+      "D07",
+      "D08",
+      "E01",
+      "E02",
+      "E03",
+      "E04",
+      "E05",
+      "E06",
+      "E07",
+      "E08",
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05",
+      "F06",
+      "F07",
+      "F08"
+    ],
+    "CultivationLabelMaxVolumeMicroLiterMap": {
+      "A01": 1000.0,
+      "A02": 1000.0,
+      "A03": 1000.0,
+      "A04": 1000.0,
+      "A05": 1000.0,
+      "A06": 1000.0,
+      "A07": 1000.0,
+      "A08": 1000.0,
+      "B01": 1000.0,
+      "B02": 1000.0,
+      "B03": 1000.0,
+      "B04": 1000.0,
+      "B05": 1000.0,
+      "B06": 1000.0,
+      "B07": 1000.0,
+      "B08": 1000.0,
+      "C01": 1000.0,
+      "C02": 1000.0,
+      "C03": 1000.0,
+      "C04": 1000.0,
+      "C05": 1000.0,
+      "C06": 1000.0,
+      "C07": 1000.0,
+      "C08": 1000.0,
+      "D01": 1000.0,
+      "D02": 1000.0,
+      "D03": 1000.0,
+      "D04": 1000.0,
+      "D05": 1000.0,
+      "D06": 1000.0,
+      "D07": 1000.0,
+      "D08": 1000.0,
+      "E01": 1000.0,
+      "E02": 1000.0,
+      "E03": 1000.0,
+      "E04": 1000.0,
+      "E05": 1000.0,
+      "E06": 1000.0,
+      "E07": 1000.0,
+      "E08": 1000.0,
+      "F01": 1000.0,
+      "F02": 1000.0,
+      "F03": 1000.0,
+      "F04": 1000.0,
+      "F05": 1000.0,
+      "F06": 1000.0,
+      "F07": 1000.0,
+      "F08": 1000.0
+    },
+    "ReservoirLabelStartVolumeMicroLiterMap": {},
+    "CultivationLabelStartVolumeMicroLiterMap": {
+      "A01": 1000.0,
+      "A02": 1000.0,
+      "A03": 1000.0,
+      "A04": 1000.0,
+      "A05": 1000.0,
+      "A06": 1000.0,
+      "A07": 1000.0,
+      "A08": 1000.0,
+      "B01": 1000.0,
+      "B02": 1000.0,
+      "B03": 1000.0,
+      "B04": 1000.0,
+      "B05": 1000.0,
+      "B06": 1000.0,
+      "B07": 1000.0,
+      "B08": 1000.0,
+      "C01": 1000.0,
+      "C02": 1000.0,
+      "C03": 1000.0,
+      "C04": 1000.0,
+      "C05": 1000.0,
+      "C06": 1000.0,
+      "C07": 1000.0,
+      "C08": 1000.0,
+      "D01": 1000.0,
+      "D02": 1000.0,
+      "D03": 1000.0,
+      "D04": 1000.0,
+      "D05": 1000.0,
+      "D06": 1000.0,
+      "D07": 1000.0,
+      "D08": 1000.0,
+      "E01": 1000.0,
+      "E02": 1000.0,
+      "E03": 1000.0,
+      "E04": 1000.0,
+      "E05": 1000.0,
+      "E06": 1000.0,
+      "E07": 1000.0,
+      "E08": 1000.0,
+      "F01": 1000.0,
+      "F02": 1000.0,
+      "F03": 1000.0,
+      "F04": 1000.0,
+      "F05": 1000.0,
+      "F06": 1000.0,
+      "F07": 1000.0,
+      "F08": 1000.0
+    },
+    "CultivationMediaMetadataMap": {
+      "A01": {},
+      "A02": {},
+      "A03": {},
+      "A04": {},
+      "A05": {},
+      "A06": {},
+      "A07": {},
+      "A08": {},
+      "B01": {},
+      "B02": {},
+      "B03": {},
+      "B04": {},
+      "B05": {},
+      "B06": {},
+      "B07": {},
+      "B08": {},
+      "C01": {},
+      "C02": {},
+      "C03": {},
+      "C04": {},
+      "C05": {},
+      "C06": {},
+      "C07": {},
+      "C08": {},
+      "D01": {},
+      "D02": {},
+      "D03": {},
+      "D04": {},
+      "D05": {},
+      "D06": {},
+      "D07": {},
+      "D08": {},
+      "E01": {},
+      "E02": {},
+      "E03": {},
+      "E04": {},
+      "E05": {},
+      "E06": {},
+      "E07": {},
+      "E08": {},
+      "F01": {},
+      "F02": {},
+      "F03": {},
+      "F04": {},
+      "F05": {},
+      "F06": {},
+      "F07": {},
+      "F08": {}
+    },
+    "ReservoirMediaMetadataMap": {}
+  },
+  "CycleTime": "00:05:00",
+  "ExperimentTime": null,
+  "TemperatureAfterExperiment": null,
+  "EvacuationTime": null,
+  "CoverProfile": null,
+  "EnvironmentProfiles": {
+    "CO2Up": {
+      "Environment": "CO2Up",
+      "Id": "6926679d-01c2-4a10-8ea3-32ff2e5c2e6a",
+      "Setpoints": [
+        {
+          "Value": {
+            "FlowRate": 20.0,
+            "Concentration": 1.0
+          },
+          "Time": "00:00:00"
+        }
+      ]
+    },
+    "O2Up": {
+      "Environment": "O2Up",
+      "Id": "5c53ce77-7e71-4c6d-997d-83f2fb1e38e3",
+      "Setpoints": [
+        {
+          "Value": {
+            "FlowRate": 10.0,
+            "Concentration": 21.0
+          },
+          "Time": "00:00:00"
+        }
+      ]
+    },
+    "O2Down": {
+      "Environment": "O2Down",
+      "Id": "fe8c7743-0b99-4494-98bd-3c85ba166300",
+      "Setpoints": [
+        {
+          "Value": {
+            "FlowRate": 10.0,
+            "Concentration": 21.0
+          },
+          "Time": "00:00:00"
+        }
+      ]
+    },
+    "Air": {
+      "Environment": "Air",
+      "Id": "55e70352-2b5a-490b-bc04-50bf26a5dd6a",
+      "Setpoints": [
+        {
+          "Value": 20.0,
+          "Time": "00:00:00"
+        }
+      ]
+    },
+    "Anaerobic": {
+      "Environment": "Anaerobic",
+      "Id": "607577d6-6c30-4a85-897c-b91ca40feec5",
+      "Setpoints": [
+        {
+          "Value": 10.0,
+          "Time": "00:00:00"
+        }
+      ]
+    },
+    "Shaker": {
+      "Environment": "Shaker",
+      "Id": "6fb57a11-a11c-45d5-8c77-beb85dee28c8",
+      "Setpoints": [
+        {
+          "Value": 600.0,
+          "Time": "00:00:00"
+        }
+      ]
+    },
+    "Temperature": {
+      "Environment": "Temperature",
+      "Id": "a2a1d3a8-ee88-4f1a-b5a5-648bc021c6e0",
+      "Setpoints": [
+        {
+          "Value": 30.0,
+          "Time": "00:00:00"
+        }
+      ]
+    }
+  },
+  "InitialTemperature": 30.0,
+  "InitialRpm": 600.0,
+  "InitialO2": null,
+  "InitialCO2": 1.0,
+  "InitialFlowRate": 20.0,
+  "UseHumidityControl": true,
+  "GassingMode": "CO2Up",
+  "LAM": {
+    "IsLAMProtocol": true
+  },
+  "UserScripts": [
+    {
+      "Id": "8c828095-6abf-46ad-9629-1dbf6807a32f",
+      "Name": null,
+      "Kind": "User",
+      "ResetOnFirstRun": true,
+      "Script": null,
+      "Language": "Lua",
+      "RunOncePerCycle": false,
+      "MaxRunDuration": "00:00:10"
+    },
+    {
+      "Id": "f3c8d1e3-53a9-4788-a102-af3060d8e8fa",
+      "Name": "LAM_Protocol_80u_84L_12D_96L.lua",
+      "Kind": "LAM",
+      "ResetOnFirstRun": true,
+      "Script": "--------------------------------------------------\r\n--*** LAM helper functions START ***\r\n--------------------------------------------------\r\n\r\nscriptRunTimeStart = get_experiment_time()/1000 -- script will be stopped & resumed if scriptRunTime = get_experiment_time()/1000 - scriptRunTimeStart exceeds scriptRunTimeMax\r\n\r\n-- add debug comments to *.log file?\r\nwriteDbgComments = false --for use in add_dbg_comment(comment, writeDbgComments)\r\n\r\n-- interpolation settings\r\ndtMin = 0.25 --interpolation stepwidth (seconds) [tbd. depending on timestamp precision and execution time of one full \"set LED power & PWM frequency\" loop]\r\n--set_lam_relative_powers(), set_lam_workmode() and set_lam_frequency() take approx. 0.2s each. Simultaneous change of all 3 parameters is unusual, therefore 0.25s should work.\r\nnStepMax = 1000 --not more than 1000 additional interpolation setpoints allowed between two regular setoints. should be enough for quasi-continuous LED power change\r\n\r\nscriptRunTimeMax = 9.5 --workaround 2022-12 until HMI bug that causes lua script error is fixed. With runTimeMax = 2e6 LAM freezes after ~4min\r\n-- scriptRunTimeMax = 2592000 --seconds. Script will be stopped/interrupted (and re-started by the HMI) if scriptRunTimeMax is exceeded.\r\n-- for an uninterrupted script execution this value should be set to >max(setTimes), e.g. 1 month: 30*24*60*60 = 2592000\r\n-- default: 10 (max lua sript run time was limited to 10s <HMI 1.7.4). \r\n-- !!!!! scriptRunTimeMax is set to 9.5s if repeatType == 3 further down in the code !!!!\r\nscriptRunTime = get_experiment_time()/1000 - scriptRunTimeStart --actual run time in seconds. if > scriptRunTimeMax script execution will be interrupted\r\nlastCycle = 1\r\n\r\nif not script_ever_ran then\r\n\r\n--define helper functions:\r\n\r\n---rounds a non-integer number\r\n---@param input_number number non-integer number\r\nfunction round_number(input_number)\r\n--rounded_number = tonumber(string.format(\"%f\", input_number))\r\nlocal rounded_number = math.floor(input_number+0.5)\r\nreturn rounded_number\r\nend\r\n\r\n\r\n--!!! not needed if all(setType==0) !!!\r\n---function that calculates the interpolated value (e.g. LED power/frequency) for the given interpolation method and get_experiment_time()/1000 between two setpoints N and N+1.\r\n---@param interpType string interpolation method between the two setpoints: \"lin\" \"sin1/2\" \"exp1/2\" \"log1/2\". \"step\" \r\n---@param t number t-t(N) elapsed get_experiment_time()/1000 since the last setpoint N in seconds. can also be an array, but in this case, function output will also be an array.\r\n---@param dTime number t(N+1)-t(N) in seconds\r\n---@param v1 number value(N)\r\n---@param v2 number value(N+1)\r\nfunction LAM_setpoints_interp(interpType, t, dTime, v1, v2)\r\nlocal nTime = #t\r\nlocal interpVal = {}\r\nlocal dv = v2-v1\r\nlocal expSpan = 5 --slope of the exp/log interpolation\r\nlocal dexp = math.exp(expSpan)-math.exp(0)\r\nlocal interpolateSetpoint = 1\r\nlocal pi = 3.141592653589793\r\n\r\nif interpType == \"lin\" then\r\nfor index, value in pairs(t) do\r\ninterpVal[index] = v1 + dv*t[index]/dTime\r\nend\r\nelseif interpType == \"sin1\" then\r\nfor index, value in pairs(t) do\r\ninterpVal[index] = v1 + dv*math.sin(pi/2*t[index]/dTime)\r\nend\r\nelseif interpType == \"sin2\" then\r\nfor index, value in pairs(t) do\r\n--interpVal[index] = v1 + dv*math.sin(pi/2*(1+t[index]/dTime))\r\ninterpVal[index] = v2 - dv*math.sin(pi/2*(1+t[index]/dTime))\r\nend\r\nelseif interpType == \"sin3\" then\r\nfor index, value in pairs(t) do\r\ninterpVal[index] = v1 + dv*0.5*(1+math.sin(pi*(t[index]/dTime-0.5)))\r\nend\r\nelseif interpType == \"exp1\" then\r\nfor index, value in pairs(t) do\r\ninterpVal[index] = v1 + dv* (math.exp((t[index])/dTime * expSpan)-math.exp(0))/dexp\r\nend\r\nelseif interpType == \"exp2\" then\r\nfor index, value in pairs(t) do\r\n--interpVal[index] = v1 + dv*(math.exp(-(t[index])/dTime * expSpan) - math.exp(-expSpan)) * 1/(math.exp(0)-math.exp(-expSpan))\r\ninterpVal[index] = v2 - dv*(math.exp(-(t[index])/dTime * expSpan) - math.exp(-expSpan)) * 1/(math.exp(0)-math.exp(-expSpan))\r\nend\r\nelseif interpType == \"log1\" then\r\nfor index, value in pairs(t) do\r\ninterpVal[index] = v1 + dv*math.log( 1+(t[index])/dTime * (math.exp(expSpan)-1)) / expSpan\r\nend\r\nelseif interpType == \"log2\" then\r\nfor index, value in pairs(t) do\r\ninterpVal[index] = v1 + dv*(1-(math.log(1+(1-(t[index])/dTime) * (math.exp(expSpan)-1)) / expSpan))\r\nend\r\nelse\r\ncomment = (\"LAM_setpoints_interp: unknown interpType \" .. interpType .. \" -> no interpolation\")\r\nadd_comment(comment)\r\nfor index, value in pairs(t) do\r\ninterpVal[index] = v1\r\nend\r\ninterpolateSetpoint = 0\r\n--interpType = \"step\"\r\nend\r\nreturn interpVal, interpolateSetpoint\r\n--interpVal, interpolateSetpoint = LAM_setpoints_interp(interpType, t, dTime, v1, v2)\r\nend\r\n\r\n\r\n---Add a comment to the experiment file. Additional input for simple deactivation of additional comments used for debugging\r\n---@param comment string\r\n---@param writeComment boolean\r\nfunction add_dbg_comment(comment, writeComment) \r\nif writeComment == true then\r\nadd_comment(comment)\r\nelse\r\n--writeComment == 0 -> do not write comment\r\nend\r\nend\r\n\r\ncomment = string.format(\"LAM: helper functions initialized @ %fs\", get_experiment_time()/1000)\r\nadd_comment(comment)\r\n\r\n\r\nend -- if not script_ever_ran\r\n--------------------------------------------------\r\n--*** LAM helper functions END ***\r\n--------------------------------------------------\r\n\r\n\r\n-- initialize only if not initialized yet:\r\nif scriptStopped == nil then\r\nscriptStopped = -1\r\nend\r\nif scriptResume == nil then\r\nscriptResume = -1\r\nend\r\n\r\n-- ***** define setpoint values *****\r\nif (not script_ever_ran) then\r\n\r\n-- *****LAM_PROTOCOL_START*****\r\n--LAMProtocol.lam={protocol_name='LAM_Protocol_80u_96L_12D_96L';;LAM_name='LAM_PT01';;channel_group={1;2;3;4;5;6;7;7;7;8;8;9;10;11;11;12;13;14;15;16};;calibration_group={{1 6 9 14} {2 10 15} {3 11 16} {4 12} {5 13} {7} {8 }};;max_current={0.71;0.71;0.50;0.50;0.71;0.71;0.71;0.71;0.71;0.71;0.71;0.71;0.71;0.60;0.60;0.71;0.71;0.71;0.71;0.71};;group_name={'365nm';'385nm';'405nm';'420nm';'450nm';'470nm';'520nm';'590nm';'620nm';'660nm';'690nm';'730nm';'750nm';'780nm';'820nm';'850nm'};;repeat=0;;name='LAM_Protocol_80u_96L_12D_96L';;t;pwr;freq;type;;0;0 0 0 0 2.300000e+00 0 3.800000e+00 1.900000e+00 2.600000e+00 2.100000e+00 2.200000e+00 2.100000e+00 0 0 0 0;7000;0;;302400;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;0;0;;388800;0 0 0 0 2.300000e+00 0 3.800000e+00 1.900000e+00 2.600000e+00 2.100000e+00 2.200000e+00 2.100000e+00 0 0 0 0;7000;0;;}\r\nsetTimes={0.00,302400.00,388800.00}\r\nsetType={0,0,0}\r\nsetPower={{0.00,0.00,0.00,0.00,2.30,0.00,3.80,1.90,2.60,2.10,2.20,2.10,0.00,0.00,0.00,0.00};\n{0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00};\n{0.00,0.00,0.00,0.00,2.30,0.00,3.80,1.90,2.60,2.10,2.20,2.10,0.00,0.00,0.00,0.00}}\r\nsetFrequency={7000.0,0.0,7000.0}\r\nrepeatType=0\r\n-- *****LAM_PROTOCOL_END*****\r\n\r\n\r\n-- add additional setpoint at t=0 if it does not exist AND interpolation type of first setpoint is not step:\r\nif setTimes[1] > 0 and setType[1] > 0 then\r\n\r\ncomment = string.format(\"LAM: adding additional setpoint @t=0s: first setpoint (@%1.2fs) interp type is [%i]\", setTimes[1], setType[1])\r\nadd_comment(comment)\r\n\r\n-- add setpoint 0 | 0:\r\ntable.insert(setTimes, 1, 0)\r\ntable.insert(setType, 1, 0)\r\ntable.insert(setPower, 1, {}) --table.insert(setPower, 1, setPower[1]) somehow couples setPower[1] & setPower[2]\r\nfor iCh = 1, #setPower[2] do --caution: #setPower[1]==0\r\nsetPower[1][iCh] = 0;\r\nend\r\ntable.insert(setFrequency, 1, 0)\r\n\r\nend\r\n\r\nn_setpoints=#setTimes\r\nn_channels =#setPower[1]\r\n\r\ninterpolateSetpoints = 0 --set to 1 if any interpolation is performed\r\n\r\n--the following for-loop is not needed if all(setType==0)\r\nsetTimesInterp = {}\r\nsetTypeInterp = {}\r\nsetPowerInterp = {}\r\nsetFrequencyInterp = {}\r\nisInterpolatedSetpoint={}\r\n\r\ntInterpStart = get_experiment_time()/1000\r\nfor index, value in pairs(setType) do\r\n\r\ninterpolateSetpoint = 0 --set to 1 if conditions are met\r\n\r\nif index < n_setpoints and setType[index+1] > 0 then\r\n--next setpoint set type is not step\r\n\r\n--TDO: implement channel-specific setpoint types if #setType[index+1] > 1\r\n\r\n--TDO: implement frequency interpolation if not (setFrequency[index] == setFrequency[index+1])\r\n--PWM frequency should not change if setType[index+1] > 0\r\nstepFrequencyMatch = setFrequency[index] == setFrequency[index+1]\r\n--warning comment\r\nif not stepFrequencyMatch then\r\ncomment = (\"LAM notification: PWM frequency changes between interpolated setpoints [setpoints \" ..  tostring(index) .. \" \" .. tostring(index+1) ..\"] --frequency will not be interpolated!--\" )\r\nadd_comment(comment)\r\nend\r\n\r\n--check if time between setTime[index] and setTime[index+1] is sufficient for interpolation:\r\nlocal dt = setTimes[index+1] - setTimes[index]\r\nlocal dPowerMax = 0\r\nfor iCh = 1, n_channels do\r\nif math.abs(setPower[index][iCh] - setPower[index+1][iCh]) > dPowerMax then\r\ndPowerMax = math.abs(setPower[index][iCh] - setPower[index+1][iCh])\r\nend\r\nend\r\n\r\n\r\nif dt > dtMin*2 and dPowerMax > 0 then--at least one additional setpoint will be created: do interpolation\r\n\r\ninterpolateSetpoint = 1\r\n--round number of interpolation steps\r\n-- nStep = tonumber(string.format(\"%f\", dt/dtMin))\r\nnStep = round_number(dt/dtMin)\r\n\r\nlocal pwrStepMin = 0.02;\r\n-- check if interpolation (assumed as linear) pwr stepwidth with nStep is >pwrStepMin, otherwise the number of interpolation points can be reduced further\r\nif dPowerMax/nStep < pwrStepMin then\r\nnStep = round_number(dPowerMax / pwrStepMin);\r\nend\r\n\r\nif nStep > nStepMax then\r\ncomment = (\"LAM: number of interpolation points reduced from \" .. tostring(nStep) .. \" to \" .. tostring(nStepMax))\r\nadd_comment(comment)\r\nnStep = nStepMax\r\nend\r\ndtStep = dt/nStep\r\n\r\nif dPowerMax/nStep > 2*pwrStepMin then --dt between the interpolated setpoints is too short for smooth interpolation\r\ncomment = (\"LAM: dt between the interpolated setpoints is too low for smooth interpolation. LED power stepwidth is \" .. tostring(dPowerMax/nStep) .. \"% \")\r\nadd_comment(comment)\r\nend\r\n\r\ninterpTime = {} --0:dtStep:\r\nfor iTime = 0, nStep do\r\ninterpTime[iTime+1] = 0 + iTime * dtStep\r\nend\r\n\r\n--different interpolation methods\r\nif setType[index+1] == 1 then\r\ninterpType = \"lin\"\r\nelseif setType[index+1] == 2 then\r\ninterpType = \"sin1\" --sin(0:pi/2)\r\nelseif setType[index+1] == 3 then\r\ninterpType = \"sin2\" --sin(pi/2:pi)\r\nelseif setType[index+1] == 4 then\r\ninterpType = \"sin3\" --sin(pi/2:pi)\r\nelseif setType[index+1] == 5 then\r\ninterpType = \"exp1\"\r\nelseif setType[index+1] == 6 then\r\ninterpType = \"exp2\"\r\nelseif setType[index+1] == 7 then\r\ninterpType = \"log1\"\r\nelseif setType[index+1] == 8 then\r\ninterpType = \"log2\"\r\nelse\r\ncomment = (\"LAM: unknown setType \" .. tostring(setType[index+1]) .. \" --no interpolation--\")\r\nadd_comment(comment)\r\ninterpolateSetpoint = 0 --cannot perform interpolation with unknown method\r\nend\r\n\r\n--interpVal, interpolateSetpoint = LAM_setpoints_interp(interpType, t, dTime, v1, v2)\r\nif interpolateSetpoint == 1 then\r\n\r\ninterpolateSetpoints = 1 --set to 1 if any(setType>0)\r\nsetTimesInterpInd = #setTimesInterp\r\n\r\n--init\r\n--for iTime = 0, nStep do\r\n--    setPowerInterp[setTimesInterpInd+iTime+1] = setPower[1]\r\n--end\r\n\r\nfor iCh = 1, n_channels do\r\n\r\ninterpVal = LAM_setpoints_interp(interpType, interpTime, dt, setPower[index][iCh], setPower[index+1][iCh])\r\nnumInterpVal = #interpVal -- == nStep, for debugging\r\n\r\n--for iTime = 0, nStep do\r\n--    setPowerInterp[setTimesInterpInd+iTime+1] = setPower[1]\r\n--end\r\nfor iTime = 0, nStep-1 do --interpTime[nStep+1] = setTimes[index+1]: nStep-1 to avoid duplicates\r\n--setTimesInterp only on the first iCh run\r\nif iCh == 1 then\r\nisInterpolatedSetpoint[setTimesInterpInd+iTime+1] = true;\r\nsetTimesInterp[setTimesInterpInd+iTime+1] = interpTime[iTime+1] + setTimes[index]--iTime starts at 0 -> use iTime+1\r\nsetTypeInterp[setTimesInterpInd+iTime+1] = 0 --set to \"step\"\r\nsetFrequencyInterp[setTimesInterpInd+iTime+1] = setFrequency[index] --no interpolation (yet)\r\nsetPowerInterp[setTimesInterpInd+iTime+1] = {} --initialize DO NOT USE =setPower[1] or strange things will happen                                \r\nend\r\nsetPowerInterp[setTimesInterpInd+iTime+1][iCh] = interpVal[iTime+1]\r\nend\r\nisInterpolatedSetpoint[setTimesInterpInd+1] = false -- first value is the original setpoint\r\n\r\nend\r\n\r\ncomment = (\"LAM: \".. tostring(nStep) .. \" interpolation points added at setpoint \" .. tostring(index) .. \" [type: \" .. interpType .. \"]\")\r\nadd_comment(comment)\r\n\r\nelse --not(interpolateSetpoint == 1) -> step: no interpolation -> set XXXInterp = XXX[index]: condition: interpolateSetpoint == 0\r\n\r\nprint(\"interpolateSetpoint: \" .. tostring(interpolateSetpoint))\r\n\r\nend\r\n\r\n\r\nelse --no interpolation due to short timespan between setpoints -> set XXXInterp = XXX[index]: condition: interpolateSetpoint == 0\r\n\r\ncomment = (\"LAM notification: not sufficient time between setpoints to perform [type\" .. interpType .. \"] interpolation [setpoints \" ..  tostring(index) .. \"<->\" .. tostring(index+1) ..\" | dt=\" .. tostring(dt) .. \"s]\")\r\nadd_comment(comment)\r\ninterpolateSetpoint = 0\r\ninterpType = \"step\"\r\n\r\nend\r\n\r\nelse -- index == n_setpoints: last setpoint is not included in interpolated data\r\n--  or setType[index+1] > 0: step\r\n---> set XXXInterp = XXX[index]: condition: interpolateSetpoint == 0\r\n\r\n-- print(\"interpolateSetpoint: \" ..tostring(interpolateSetpoint))\r\n\r\nend --index < n_setpoints and setType[index+1] > 0 then\r\n\r\nif interpolateSetpoint == 0 then --possible causes: unknown interpolation method, dt too short, last setpoint\r\n--no interpolation\r\nsetTimesInterpInd = #setTimesInterp\r\nisInterpolatedSetpoint[setTimesInterpInd+1] = false\r\nsetTimesInterp[setTimesInterpInd+1] = setTimes[index]\r\nsetTypeInterp[setTimesInterpInd+1] = setType[index] --should be 0 (== \"step\")\r\nsetFrequencyInterp[setTimesInterpInd+1] = setFrequency[index] --no interpolation (yet)\r\nsetPowerInterp[setTimesInterpInd+1] = {} --setPower[1] produces strange results and somehow couples setPowerInterp<->setPower so that changing a value in setPowerInterp also changes setPower\r\nfor iCh = 1, n_channels do\r\nsetPowerInterp[setTimesInterpInd+1][iCh] = setPower[index][iCh]\r\nend\r\nend\r\n\r\nend --index, value in pairs(setType) do    \r\ntInterpEnd = get_experiment_time()/1000\r\n\r\nif not (#setTimesInterp == #setTimes) then --additional condition interpolateSetpoints == 1 redundant\r\n-- overwrite original setpoints:\r\n\r\nnumelInterpSetpoints = #setTimesInterp - #setTimes\r\n\r\nsetTimesBackup = setTimes\r\nsetTypeBackup = setType\r\nsetFrequencyBackup = setFrequency\r\nsetPowerInterpBackup = setPower\r\n\r\nsetTimes = setTimesInterp\r\nsetType = setTypeInterp\r\nsetFrequency = setFrequencyInterp\r\nsetPower = setPowerInterp\r\n\r\nn_setpoints = #setTimes\r\n\r\ncomment = string.format(\"LAM: added %1.0f interpolated setpoints: tStart|tEnd|dt: %1.4f|%1.4f|%1.4f\", numelInterpSetpoints, tInterpStart, tInterpEnd, tInterpEnd-tInterpStart)\r\nadd_comment(comment)\r\n\r\nend\r\n\r\ncomment = (\"LAM: Script started [\" .. tostring(scriptRunTimeStart) .. \"s] | number of setpoints [\" .. tostring(n_setpoints) .. \"]\")\r\nadd_comment(comment)\r\n\r\nend -- if (not script_ever_ran) then\r\n\r\n\r\nif (not script_ever_ran) or (scriptResume == 0 and not repeatType == 0) then\r\n--scriptResume ~ matching repeatType condition: is set after first script run and has therefore not do be defined before\r\n\r\nif script_ever_ran then\r\nscriptRunNo = scriptRunNo + 1\r\nelse\r\nscriptRunNo = 1\r\nend\r\n\r\n-- initialize setpoint index:\r\niTStart = 1 --if script was interrupted this value is set to the first un-set setpoint (if no forced restart because of repeatType 1|2 is required: then iTStart = 1 is set)\r\nscriptStopped = 0 --was script interrupted during last execution to pre-empt automatic time-out script termination by the HMI    \r\n\r\n--check for any setpoints with setType>0 and add additional interpolation setpoints:\r\n\r\nstartTimeSec = get_experiment_time()/1000\r\n\r\n\r\nelse --script_ever_ran = true and scriptResume == 1\r\n\r\nscriptRunNo = scriptRunNo + 1\r\n\r\nend\r\n\r\n-- initialize LAM\r\nif (not script_ever_ran) then --no intialization if script is resumed!\r\n\r\n-- set_lam_leds_onoff(0) -- tbd\r\nset_lam_workmode(\"DC\")\r\nset_lam_frequency(0)\r\n\r\nactualFrequency = 0\r\nactualWorkMode = \"DC\"\r\nactualPower = {} -- was setPower[1] but this couples actualPower <-> setPower[1]\r\n\r\n--power off\r\nfor index, value in pairs(setPower[1]) do\r\n-- set_lam_relative_power(index, 0)\r\nactualPower[index] = 0\r\nend\r\nset_lam_relative_powers(actualPower)\r\n\r\ncomment = string.format(\"LAM: initialized: all LEDs set to 0%% [%1.1fs]\", get_experiment_time()/1000-scriptRunTimeStart)\r\nadd_comment(comment)\r\n\r\nend\r\n\r\n-- modify hard-coded scriptRunTimeMax value (~1 month in seconds) if repeatType == 2 (since \"cycle\" is only updated updated once per lua script execution when the script is started) \r\nif (not script_ever_ran) and repeatType == 2 then\r\n-- 0:repeatOff 1:repeatFilter 2:repeatCycle 3:repeatForever\r\nscriptRunTimeMax = 9.5;\r\n-- HMI attemps to re-start lua script every 10s (if it is not still running). 0.5s buffer should be sufficient.\r\nend\r\n\r\n--scriptRunTimeMax=50 script_ever_ran=true cycle=2 scriptRunNo=5 iTStart=116 repeatType=0 scriptResume=1 scriptStopped=1\r\niT = iTStart\r\n\r\ncomment = string.format(\"LAM: script main loop started: script_ever_ran=%s | scriptRunNo=%i | cycle=%i | scriptRunNo=%i | iTStart=%i(%i) | repeatType=%i | scriptResume=%i | scriptStopped=%i | scriptStartTime=%1.2fs | expTime=%1.2fs\",  script_ever_ran, scriptRunNo, cycle, scriptRunNo, iTStart, n_setpoints, repeatType, scriptResume, scriptStopped, startTimeSec, get_experiment_time()/1000)\r\nadd_comment(comment)\r\n\r\nwhile iT <= n_setpoints do\r\n\r\ntSec = get_experiment_time()/1000 - startTimeSec -- time in sec\r\n\r\nlastCycle = cycle; --cycle is only updated once when the script is started :-(\r\n\r\nfilter = '1' --TDO: remove repeat option \"filter\"\r\nlastFilter = filter\r\n\r\nif tSec >= setTimes[iT] then --new setpoint\r\n\r\nif isInterpolatedSetpoint[iT] == false or writeDbgComments == true then\r\ncomment = string.format(\"LAM: setpoint %i(%i) @ %1.2fs [target: %1.2fs | expTime: %1.2fs]\", iT, n_setpoints, tSec, setTimes[iT], get_experiment_time()/1000)\r\nadd_comment(comment)\r\nend\r\n\r\n--set LED power & PWM frequency (only if the value/work mode has changed)                \r\n\r\n-- set LED power\r\nchangeLEDPower = false\r\nfor i = 1, #setPower[iT] do\r\nif not (actualPower[i] == setPower[iT][i]) then\r\nchangeLEDPower = true\r\nactualPower[i] = setPower[iT][i];\r\nend\r\nend\r\nif changeLEDPower == true then\r\n\r\nt0 = get_experiment_time()/1000\r\nset_lam_relative_powers(setPower[iT])\r\nt1 = get_experiment_time()/1000\r\n\r\ns = ''\r\nfor i = 1, #actualPower do\r\ns = (string.format(\"%s %1.1f \", s, actualPower[i]))\r\nend\r\nif isInterpolatedSetpoint[iT] == false or writeDbgComments == true then\r\ncomment = string.format(\"LAM: LAM Channels set to [ %s]%% | [%1.2fs]\", s, t1-t0)\r\nadd_comment(comment)\r\nend\r\nelse\r\nif isInterpolatedSetpoint[iT] == false or writeDbgComments == true then\r\ncomment = string.format(\"LAM: new setpoint but no LED power change detected\")\r\nadd_comment(comment)\r\nend\r\nend\r\n\r\n-- for index, value in pairs(setPower[iT]) do\t\t\r\n--     set_lam_relative_power(index, value)\t\t\t\r\n--     comment = (\"LAM: set LED Power for Channel \" ..  tostring(index) .. \" to \" .. tostring(value) ..\"% @ Time \" .. tostring(tSec) .. \"s [target: \" .. tostring(setTimes[iT]) .. \"s]\")\r\n--     add_comment(comment)\r\n-- end\r\n\r\n-- LAM initialized with actualFrequency = 0 actualWorkMode = \"DC\"\r\n\r\n-- detect and set work mode\r\nif setFrequency[iT] > 0 then\r\nLAMWorkMode = \"PWM\"\r\nelse\r\nLAMWorkMode = \"DC\"\r\nend\r\nif not (actualWorkMode == LAMWorkMode) then\r\n\r\nt0 = get_experiment_time()/1000;\r\nset_lam_workmode(LAMWorkMode)\r\nactualWorkMode = LAMWorkMode\r\nt1 = get_experiment_time()/1000;\r\n\r\ncomment = string.format(\"LAM: LAM work mode set to [ %s] | [%1.2fs]\", actualWorkMode, t1-t0)\r\nadd_comment(comment);\r\n\r\nend\r\n\r\n-- set PWM frequency\r\nif not (actualFrequency == setFrequency[iT]) then\r\n\r\nt0 = get_experiment_time()/1000;\r\nset_lam_frequency(setFrequency[iT])\r\nactualFrequency = setFrequency[iT]\r\nt1 = get_experiment_time()/1000;\r\n\r\ncomment = string.format(\"LAM: LAM frequency set to set to %1.0fHz | [%1.2fs]\", actualFrequency, t1-t0)\r\nadd_comment(comment);\r\n\r\nend\r\n\r\n--activate LAM on first run\r\nif iT == 1 then\r\n-- set_lam_leds_onoff(1) --function not yet implemented\r\nend\r\n\r\n--next setpoint:\r\niT = iT+1\r\n\r\nend --tSec >= setTimes[iT]\r\n\r\n-- check if any of the criteria for stopping or re-starting the script are met:\r\n-- 1) scriptRunTime > scriptRunTimeMax and stop execution if time is exceeded\r\n--    (even if the condition iT <= n_setpoints is still fulfilled)\r\n-- for iT > n_setpoints the script will stop anyway and no action is needed\r\nscriptRunTime = get_experiment_time()/1000 - scriptRunTimeStart\r\nscriptStopped = 0 --set to 1 if script will be stopped\r\n\r\n-- stop/restart/resume script/while-loop?\r\n-- reminder: iT = iT+1 is set after setpoint(iT) values are set -> if iT>n_setpoints: all setpoints were already set.\r\n-- repeatType 0:repeatOff 1:repeatFilter 2:repeatCycle 3:repeatForever\r\n\r\nif (repeatType == 1 and (not filter == lastFilter)) or (repeatType == 2 and cycle > lastCycle) then\r\n--repeatType 1&2 can trigger a re-start of the script regardless of time & setpoint:\r\n\r\nif iT <= n_setpoints then\r\nif repeatType == 1 and (not filter == lastFilter) then\r\ncomment = (\"LAM: script stopped at setpoint \" .. tostring(iT) .. \"(\" .. tostring(n_setpoints) .. \"): new filter (new: \" .. tostring(filter) .. \" | old: \" .. tostring(lastFilter) .. \")\" )\r\nelseif (repeatType == 2 and cycle > lastCycle) then\r\ncomment = (\"LAM: script stopped at setpoint \" .. tostring(iT) .. \"(\" .. tostring(n_setpoints) .. \"): new cycle started (#\" .. tostring(cycle) .. \")\")\r\nend\r\nadd_comment(comment)\r\nend\r\n\r\nif scriptRunTime >= scriptRunTimeMax then\r\n-- stop the script before the HMI kills it.\r\n-- start the next script run with iTStart = 1\r\n\r\niT = n_setpoints + 1 --stops execution of while-loop\r\nscriptStopped = 1\r\nscriptResume = 0\r\niTStart = 1\r\n\r\ncomment = (\"LAM: repeatType [\" .. tostring(repeatType) .. \"]  && scriptRunTime >= scriptRunTimeMax: script will be run again\")\r\nadd_dbg_comment(comment, writeDbgComments)\r\n\r\nelse\r\n-- time left for a while-loop re-start\r\niT = 1 -- will re-start the while-loop\r\nscriptStopped = 0\r\nscriptResume = 0\r\niTStart = 1\r\n\r\ncomment = (\"LAM: repeatType [\" .. tostring(repeatType) .. \"]  && scriptRunTime < scriptRunTimeMax: iT set to 1\")\r\nadd_dbg_comment(comment, writeDbgComments)\r\n\r\nend\r\n\r\nelseif scriptRunTime >= scriptRunTimeMax then\r\n-- max allowed script execution time exceeded -> stop script before the HMI kills it.\r\n-- re-starting conditions for repeatType 1,2 are checked in the first if statement and do not have to be re-checked here\r\n-- -> only repeatType 0 3 expected\r\n\r\nif iT <= n_setpoints then\r\n--script will be stopped before the last setpoint is reached. the script will be re-started by the HMI and continue with the remaining setpoints starting with iT\r\n\r\niTStart = iT;\r\n\r\niT = n_setpoints + 1 --stops execution of while-loop\r\nscriptStopped = 1\r\nscriptResume = 1\r\n\r\ncomment = (\"LAM: scriptRunTimeMax(\" ..tostring(scriptRunTimeMax) ..\"s) exceeded: script stopped at setpoint \" .. tostring(iTStart-1) .. \r\n\"(\" .. tostring(n_setpoints) .. \") @ \" .. tostring(scriptRunTime) ..\"s: scriptResume=\" .. tostring(scriptResume))\r\nadd_comment(comment)\r\n\r\n\r\nelse -- iT > n_setpoints: all setpoints were set. a rare coincidence when scriptRunTime is just > scriptRunTimeMax.\r\n-- normally this will happen at scriptRunTime <= scriptRunTimeMax\r\n-- while loop breaking condition automatically fulfilled: iT > n_setpoints by definition\r\n\r\nscriptStopped = 0 -- all setpoints were set\r\n\r\nif repeatType == 0 then -- repeat off\r\n\r\nscriptResume = 0\r\niTStart = n_setpoints + 1\r\nrun_again = false -- lua script will not be called again during current protocol run\r\n\r\ncomment = (\"LAM: scriptRunTime < scriptRunTimeMax, all setpoints set and repeatType 0 -> setting run_again = false\")\r\nadd_dbg_comment(comment, writeDbgComments)\r\n\r\nelseif repeatType == 3 then -- repeat forever -> start next run at first setpoint\r\n\r\nscriptResume = 0\r\niTStart = 1\r\n\r\ncomment = (\"LAM: scriptRunTime < scriptRunTimeMax, all setpoints set and repeatType 3. script will be called again and start with first setpoint\")\r\nadd_dbg_comment(comment, writeDbgComments)\r\n\r\nelse\r\ncomment = (\"LAM: unexpected repeat type [\" .. tostring(repeatType) .. \" -> check case definition\")\r\nadd_comment(comment)\r\nend\r\n\r\nend\r\n\r\nelseif iT > n_setpoints then -- all setpoints set but NOT scriptRunTime >= scriptRunTimeMax\r\n-- iT > n_setpoints will break the while-loop automatically\r\n\r\nif repeatType == 0 then -- repeat off\r\n--last setpoint set, but scriptRunTime < scriptRunTimeMax.\r\nscriptStopped = 1\r\nscriptResume = 0\r\niTStart = n_setpoints + 1\r\nrun_again = false -- lua script will not be called again during current protocol run\r\n\r\ncomment = (\"LAM: all setpoints set and repeatType 0 -> stopping script and setting run_again = false\")\r\nadd_dbg_comment(comment, writeDbgComments)\r\n\r\nelseif repeatType == 3 then -- repeat forever -> restart directly\r\n-- while-loop stopping condition fulfilled BUT scriptRunTime < scriptRunTimeMax and repeatType == 3 \"forever\"\r\n-- -> setting iT to 1 will restart the while-loop: wait until scriptRunTime > scriptRunTimeMax takes up to scriptRunTimeMax if script was just re-started\r\nscriptStopped = 0\r\nscriptResume = 1\r\niTStart = 1\r\niT = 1\r\n\r\nstartTimeSec = get_experiment_time()/1000 -- re-start script timer\r\n\r\ncomment = (\"LAM: all setpoints set and repeatType [3] -> re-starting script\")\r\nadd_dbg_comment(comment, writeDbgComments)\r\n\r\nend\r\n\r\nelse -- iT <= n_setpoints and scriptRunTime < scriptRunTimeMax  and (repeatType == 1 and (filter == lastFilter))) and (repeatType == 2 and cycle == lastCycle)\r\n-- do nothing and repeat while-loop until tSec >= setTimes[iT] or any other condition is met\r\n-- if script is stopped by the MHI due to timeout: resume script\r\niTStart = iT;\r\nscriptResume = 1\r\nscriptStopped = 0\r\n\r\nend\r\n\r\n\r\nend --while iT <= n_setpoints do\r\n",
+      "Language": "Lua",
+      "RunOncePerCycle": false,
+      "MaxRunDuration": "00:00:00"
+    }
+  ],
+  "ProfileScripts": [
+    {
+      "Id": "6926679d-01c2-4a10-8ea3-32ff2e5c2e6a",
+      "Name": "CO2Up",
+      "Kind": "Legacy",
+      "ResetOnFirstRun": true,
+      "Script": "   condition0_surpassed =  ( condition0_surpassed ) or  ( false ) \r\n   condition0_pass_block_at =  ( condition0_pass_block_at ) or  ( 2147483647 ) \r\n   condition0_pass_pause_at =  ( condition0_pass_pause_at ) or  ( 0 ) \r\n   condition0_repetitions =  ( condition0_repetitions ) or  ( 0 ) \r\n   local condition = false\r\nif not(condition0_surpassed) then\r\n   condition =  ( time ) >=  ( 0.000000000000000 ) \r\nend\r\nif  ( condition ) and  (  ( condition0_pass_block_at ) >=  ( 2147483647 )  )  then\r\n   condition0_pass_block_at =  ( time ) +  ( 0.000000000000000 ) \r\nend\r\nif not(condition) then\r\n   condition0_pass_block_at = 2147483647\r\nend\r\nif  (  (  ( time ) >=  ( condition0_pass_block_at )  ) and  (  (  ( time ) >=  ( condition0_pass_pause_at )  ) and  (  ( condition0_repetitions ) <  ( 1 )  )  )  ) and  ( true )  then\r\n   condition0_surpassed = false\r\n   condition0_pass_block_at =  ( time ) +  ( 2147483647 ) \r\n   condition0_pass_pause_at =  ( time ) +  ( 0.000000000000000 ) \r\n   condition0_repetitions =  ( condition0_repetitions ) +  ( 1.000000000000000 ) \r\n   run_again = true\r\n   latest_cycle_action_called = cycle\r\nset_setpoint_gas_percentage('CO2',1.000000000000000)\r\nset_setpoint_gassing_flowrate(20.000000000000000)\r\nadd_comment('Setpoint (CO2Up) planned at 00:00:00 was fulfilled for $CO2 with a concentration of 1;  and a flowrate of 20')\r\nend\r\nif not(condition0_surpassed) then\r\nend\r\n",
+      "Language": "Lua",
+      "RunOncePerCycle": false,
+      "MaxRunDuration": "00:00:10"
+    },
+    {
+      "Id": "6fb57a11-a11c-45d5-8c77-beb85dee28c8",
+      "Name": "Shaker",
+      "Kind": "Legacy",
+      "ResetOnFirstRun": true,
+      "Script": "   condition0_surpassed =  ( condition0_surpassed ) or  ( false ) \r\n   condition0_pass_block_at =  ( condition0_pass_block_at ) or  ( 2147483647 ) \r\n   condition0_pass_pause_at =  ( condition0_pass_pause_at ) or  ( 0 ) \r\n   condition0_repetitions =  ( condition0_repetitions ) or  ( 0 ) \r\n   local condition = false\r\nif not(condition0_surpassed) then\r\n   condition =  ( time ) >=  ( 0.000000000000000 ) \r\nend\r\nif  ( condition ) and  (  ( condition0_pass_block_at ) >=  ( 2147483647 )  )  then\r\n   condition0_pass_block_at =  ( time ) +  ( 0.000000000000000 ) \r\nend\r\nif not(condition) then\r\n   condition0_pass_block_at = 2147483647\r\nend\r\nif  (  (  ( time ) >=  ( condition0_pass_block_at )  ) and  (  (  ( time ) >=  ( condition0_pass_pause_at )  ) and  (  ( condition0_repetitions ) <  ( 1 )  )  )  ) and  ( true )  then\r\n   condition0_surpassed = false\r\n   condition0_pass_block_at =  ( time ) +  ( 2147483647 ) \r\n   condition0_pass_pause_at =  ( time ) +  ( 0.000000000000000 ) \r\n   condition0_repetitions =  ( condition0_repetitions ) +  ( 1.000000000000000 ) \r\n   run_again = true\r\n   latest_cycle_action_called = cycle\r\nset_setpoint_rpm(600.000000000000000)\r\nadd_comment('Setpoint (Shaker) planned at 00:00:00 was fulfilled with value 600')\r\nend\r\nif not(condition0_surpassed) then\r\nend\r\n",
+      "Language": "Lua",
+      "RunOncePerCycle": false,
+      "MaxRunDuration": "00:00:10"
+    },
+    {
+      "Id": "a2a1d3a8-ee88-4f1a-b5a5-648bc021c6e0",
+      "Name": "Temperature",
+      "Kind": "Legacy",
+      "ResetOnFirstRun": true,
+      "Script": "   condition0_surpassed =  ( condition0_surpassed ) or  ( false ) \r\n   condition0_pass_block_at =  ( condition0_pass_block_at ) or  ( 2147483647 ) \r\n   condition0_pass_pause_at =  ( condition0_pass_pause_at ) or  ( 0 ) \r\n   condition0_repetitions =  ( condition0_repetitions ) or  ( 0 ) \r\n   local condition = false\r\nif not(condition0_surpassed) then\r\n   condition =  ( time ) >=  ( 0.000000000000000 ) \r\nend\r\nif  ( condition ) and  (  ( condition0_pass_block_at ) >=  ( 2147483647 )  )  then\r\n   condition0_pass_block_at =  ( time ) +  ( 0.000000000000000 ) \r\nend\r\nif not(condition) then\r\n   condition0_pass_block_at = 2147483647\r\nend\r\nif  (  (  ( time ) >=  ( condition0_pass_block_at )  ) and  (  (  ( time ) >=  ( condition0_pass_pause_at )  ) and  (  ( condition0_repetitions ) <  ( 1 )  )  )  ) and  ( true )  then\r\n   condition0_surpassed = false\r\n   condition0_pass_block_at =  ( time ) +  ( 2147483647 ) \r\n   condition0_pass_pause_at =  ( time ) +  ( 0.000000000000000 ) \r\n   condition0_repetitions =  ( condition0_repetitions ) +  ( 1.000000000000000 ) \r\n   run_again = true\r\n   latest_cycle_action_called = cycle\r\nset_setpoint_temperature(30.000000000000000)\r\nadd_comment('Setpoint (Temperature) planned at 00:00:00 was fulfilled with value 30')\r\nend\r\nif not(condition0_surpassed) then\r\nend\r\n",
+      "Language": "Lua",
+      "RunOncePerCycle": false,
+      "MaxRunDuration": "00:00:10"
+    }
+  ],
+  "Microfluidics": null,
+  "Version": 6
+}
